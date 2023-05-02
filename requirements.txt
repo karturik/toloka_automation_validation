@@ -1,0 +1,8 @@
+pandas
+toloka-kit
+psycopg2
+Pillow
+pydub
+moviepy
+wave
+
